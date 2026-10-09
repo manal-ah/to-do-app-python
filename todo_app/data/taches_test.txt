@@ -1,0 +1,32 @@
+id_tache;titre;priorite;date_limite;statut
+1;Préparer le rapport mensuel;haute;2026-04-30;à faire
+2;Répondre aux e-mails clients;moyenne;2026-04-25;en cours
+3;Mettre à jour la documentation technique;basse;2026-05-10;à faire
+4;Réviser le module de connexion;haute;2026-04-23;en cours
+5;Corriger le bug d'affichage sur mobile;haute;2026-04-28;à faire
+6;Planifier la réunion d'équipe;moyenne;2026-05-05;à faire
+7;Rédiger les tests unitaires;moyenne;2026-05-12;à faire
+8;Déployer la version 2.1 en production;haute;2026-04-29;à faire
+9;Former les nouveaux stagiaires;basse;2026-05-20;à faire
+10;Valider les maquettes UI;moyenne;2026-05-03;en cours
+11;Archiver les anciens projets;basse;2026-05-15;à faire
+12;Analyser les retours utilisateurs;moyenne;2026-04-27;à faire
+13;Optimiser les requêtes SQL;haute;2026-05-08;à faire
+14;Mettre en place le système de sauvegarde;haute;2026-04-26;en cours
+15;Rédiger le cahier des charges v3;moyenne;2026-05-18;à faire
+16;Organiser le séminaire annuel;basse;2026-06-01;à faire
+17;Vérifier les licences logicielles;basse;2026-05-22;à faire
+18;Corriger les fautes dans le rapport;moyenne;2026-04-24;terminée
+19;Configurer le serveur de test;haute;2026-04-20;terminée
+20;Préparer la présentation client;haute;2026-05-06;à faire
+21;Mettre à jour les dépendances Python;moyenne;2026-05-14;à faire
+22;Réviser la politique de confidentialité;basse;2026-05-25;à faire
+23;Tester l'intégration de l'API externe;haute;2026-05-02;en cours
+24;Nettoyer la base de données de test;basse;2026-05-30;à faire
+25;Finaliser le plan de migration;haute;2026-05-09;à faire
+;Titre sans identifiant;moyenne;2026-05-01;à faire
+27;;haute;2026-05-01;à faire
+28;Tâche avec priorité inconnue;critique;2026-05-01;à faire
+29;Date mal formatée;moyenne;01-05-2026;à faire
+30;Statut invalide;basse;2026-05-01;suspendue
+31;Trop peu de colonnes;haute

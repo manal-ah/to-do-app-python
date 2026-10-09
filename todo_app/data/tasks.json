@@ -1,0 +1,58 @@
+[
+  {
+    "id_tache": 1,
+    "titre": "Préparer la présentation du projet Python",
+    "priorite": "haute",
+    "date_limite": "2026-04-18",
+    "statut": "en cours"
+  },
+  {
+    "id_tache": 2,
+    "titre": "Rédiger le rapport de groupe (PDF)",
+    "priorite": "haute",
+    "date_limite": "2026-04-20",
+    "statut": "à faire"
+  },
+  {
+    "id_tache": 3,
+    "titre": "Tester l'interface graphique customTkinter",
+    "priorite": "moyenne",
+    "date_limite": "2026-04-15",
+    "statut": "à faire"
+  },
+  {
+    "id_tache": 4,
+    "titre": "Implémenter la gestion des erreurs (exceptions)",
+    "priorite": "haute",
+    "date_limite": "2026-04-12",
+    "statut": "terminée"
+  },
+  {
+    "id_tache": 5,
+    "titre": "Rendre le dépôt Git propre et documenté",
+    "priorite": "moyenne",
+    "date_limite": "2026-04-19",
+    "statut": "à faire"
+  },
+  {
+    "id_tache": 6,
+    "titre": "Réviser les cours de POO Python",
+    "priorite": "basse",
+    "date_limite": "2026-04-25",
+    "statut": "à faire"
+  },
+  {
+    "id_tache": 7,
+    "titre": "Enregistrer la capsule vidéo de démonstration",
+    "priorite": "haute",
+    "date_limite": "2026-04-18",
+    "statut": "à faire"
+  },
+  {
+    "id_tache": 8,
+    "titre": "Corriger les bugs signalés lors des tests",
+    "priorite": "haute",
+    "date_limite": "2026-04-05",
+    "statut": "en cours"
+  }
+]

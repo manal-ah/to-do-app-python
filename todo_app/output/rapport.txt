@@ -1,0 +1,31 @@
+============================================================
+       RAPPORT D'ANALYSE — TO-DO LIST MANAGER
+       Généré le : 2026-04-17
+============================================================
+
+STATISTIQUES GÉNÉRALES
+-----------------------
+Total des tâches       : 8
+  • À faire            : 3
+  • En cours           : 2
+  • Terminées          : 3
+
+RÉPARTITION PAR PRIORITÉ
+--------------------------
+  • Haute              : 3
+  • Moyenne            : 3
+  • Basse              : 2
+
+TÂCHES EN RETARD
+-----------------
+  [1] Rendre le rapport Python   | Haute  | Échéance : 2026-04-15
+  [2] Préparer la vidéo          | Haute  | Échéance : 2026-04-16
+
+TÂCHES URGENTES (priorité haute, non terminées)
+-------------------------------------------------
+  [1] Rendre le rapport Python   | À faire   | Échéance : 2026-04-15
+  [3] Réviser les tests unitaires| En cours  | Échéance : 2026-04-20
+
+============================================================
+  Rapport généré automatiquement par To-Do List Manager
+============================================================
